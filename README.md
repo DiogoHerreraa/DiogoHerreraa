@@ -1,6 +1,6 @@
 ### Oii ! Eu sou Diogo Herrera 
 
--  Sou estudande de Ciência da Computação na Universidade Catolica de Pernambuco (atualmente no 4.º Periododo)
+-  Sou estudande de Ciência da Computação na Universidade Catolica de Pernambuco (atualmente no 5.º Periodo)
 -  Tenho um forte interesse em trabalhar e me especializar na parte de Back-End 
 -  Estou sempre aberto a oportunidades de aprendizado e colaboração.
 
