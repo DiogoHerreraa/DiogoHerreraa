@@ -5,9 +5,8 @@
 -  Estou sempre aberto a oportunidades de aprendizado e colaboração.
 
 
-<div>
-   ![DiogoHerraa GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</div>
+   ![DiogoHerraa GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoHerraa&show_icons=true&theme=radical)
+
 
 ## Minhas Competências 
 <div style="display: inline_block"><br>
