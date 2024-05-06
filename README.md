@@ -6,10 +6,8 @@
 
 
 <div>
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoHerrera&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHerreraa&layout=compact&langs_count=16&theme=great-gatsby"/>
-  </div>
-<br>
+   ![DiogoHerraa GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+</div>
 
 ## Minhas Competências 
 <div style="display: inline_block"><br>
