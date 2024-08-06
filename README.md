@@ -1,9 +1,9 @@
 ## Olá, meu nome é Diogo Herrera 👋
 
-- Tenho 20 anos
+- EMAIL PARA CONTATO : diogoherreraa@gmail.com
 - Estudante de Cinência da Computação na UNICAP ( universidade católica de pernambuco )
 - Estou cursando o 6 periodo
-- Sempre em busca de oportunidades para me desenvovler 
+- Atualmente estou focado em me desevovler em : Banco de Dados, HMTL e CSS
 
 
 <table>
