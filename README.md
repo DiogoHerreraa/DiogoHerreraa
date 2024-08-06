@@ -1,28 +1,54 @@
-### Oii ! Eu sou Diogo Herrera 
+## Olá, meu nome é Diogo Herrera 👋
 
--  Sou estudande de Ciência da Computação na Universidade Catolica de Pernambuco (atualmente no 5.º Periodo)
--  Tenho um forte interesse em trabalhar e me especializar na parte de Back-End 
--  Estou sempre aberto a oportunidades de aprendizado e colaboração.
-
-
-   ![DiogoHerraa GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoHerraa&show_icons=true&theme=radical)
+- Tenho 20 anos
+- Estudante de Cinência da Computação na UNICAP ( universidade católica de pernambuco )
+- Estou cursando o 6 periodo
+- Sempre em busca de oportunidades para me desenvovler 
 
 
-## Minhas Competências 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- </div>
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=DiogoHerreraa&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=DiogoHerreraa&show_icons=true&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=DiogoHerreraa&show_icons=true&title_color=C00102&icon_color=C00102" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHerreraa&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHerreraa&layout=compact&title_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHerreraa&layout=compact&title_color=C00102" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-## Redes Sociais
-  <div> 
-  <a href="https://instagram.com/diogoherrera_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diogoherrera16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-herrera-50b7a6243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/paulo-gabriel-c-j%C3%BAnior-343a65222/](https://www.linkedin.com/in/diogo-herrera-50b7a6243/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/diogoherrera_/)
 
 
+### 🛠️ Skills
 
-          
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
