@@ -54,3 +54,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js,mysql,figma,typescript)](https://skillicons.dev)
+
