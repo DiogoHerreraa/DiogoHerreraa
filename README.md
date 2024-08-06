@@ -39,7 +39,7 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/paulo-gabriel-c-j%C3%BAnior-343a65222/](https://www.linkedin.com/in/diogo-herrera-50b7a6243/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diogo-herrera-50b7a6243/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/diogoherrera_/)
 
 
