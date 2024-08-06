@@ -45,15 +45,5 @@
 
 ### 🛠️ Skills
 
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js,mysql,figma,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,mysql)](https://skillicons.dev)
 
